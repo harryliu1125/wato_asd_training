@@ -2,6 +2,8 @@
 
 A Dockerized ROS2 autonomous navigation project for a simulated robot. The robot uses lidar perception, occupancy-grid mapping, A* path planning, and Pure Pursuit control to navigate toward user-defined goal points in a Gazebo/Foxglove simulation environment.
 
+video here: https://www.youtube.com/watch?v=21nqUwOupjU
+
 ## Overview
 
 This project implements a full basic navigation pipeline:
